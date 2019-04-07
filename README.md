@@ -1,5 +1,6 @@
 # Identifying Genre of Movie Posters 
 Katie Foster
+
 Emma Mack
 
 ## Abstract
